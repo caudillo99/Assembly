@@ -1,6 +1,6 @@
 <h1>Assembly x86 Programs</h1>
 <p>  This repository is dedicated to my programs made in assembly language (TASM). </p>
-<h2>How to Run the files</h2>
+<h2>What you going to see?</h2>
 <p> Every folder contains the following files:
   <ul>
     <li>The source file (eg. example.asm).</li>
